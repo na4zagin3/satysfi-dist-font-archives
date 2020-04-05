@@ -2,6 +2,9 @@
 Repository to store font archives used by SATySFi dist.
 
 # Fonts
+## Asana Math
+- https://www.ctan.org/pkg/asana-math
+
 ## Latin Modern from GUST
 - http://www.gust.org.pl/projects/e-foundry/latin-modern/download/lm2.004otf.zip
 
